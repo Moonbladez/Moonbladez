@@ -44,4 +44,3 @@ I ♥️ Front-end web development <br/>
 <p align="center">
    <q> ...the one argument for accessibility that doesn’t get made nearly often enough is how extraordinarily better it makes some people’s lives. How many opportunities do we have to dramatically improve people’s lives just by doing our job a little better</q>
   
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=53820853)
