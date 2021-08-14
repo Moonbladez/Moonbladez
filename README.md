@@ -24,7 +24,6 @@ I ♥️ Front-end web development <br/>
 ## ⏫ Technologies I Am Currently Learning or Improving
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 <br/>
@@ -35,7 +34,7 @@ I ♥️ Front-end web development <br/>
 
 <br/>
 
-# Ways To Reach Me
+## Ways To Reach Me
 <a target="_blank" href="https://www.linkedin.com/in/rebecca-young83/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/jegheterbekki"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
