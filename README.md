@@ -7,6 +7,8 @@ I ♥️ Front-end web development <br/>
 🎮 I love to game
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moonbladez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ##  🛠️ Technologies I love
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,4 +42,6 @@ I ♥️ Front-end web development <br/>
 <hr>
 <p align="center">
    <q> ...the one argument for accessibility that doesn’t get made nearly often enough is how extraordinarily better it makes some people’s lives. How many opportunities do we have to dramatically improve people’s lives just by doing our job a little better</q>
+   
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Moonbladez&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=0D1117)](https://git.io/streak-stats)
   
