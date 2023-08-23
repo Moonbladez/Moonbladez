@@ -33,12 +33,6 @@ I ♥️ Front-end web development <br/>
 
 ## Ways To Reach Me
 <a target="_blank" href="https://www.linkedin.com/in/rebecca-young83/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/jegheterbekki"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
-<br/>
-<hr>
-<p align="center">
-   <q> ...the one argument for accessibility that doesn’t get made nearly often enough is how extraordinarily better it makes some people’s lives. How many opportunities do we have to dramatically improve people’s lives just by doing our job a little better</q>
-   
- [![GitHub Streak](https://streak-stats.demolab.com?user=Moonbladez&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=0D1117)](https://git.io/streak-stats)
+
   
