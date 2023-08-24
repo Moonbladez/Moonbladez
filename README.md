@@ -1,5 +1,3 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF09E4&center=true&lines=Hi%2C+my+name+is+Bekki.;Welcome+to+my+Github+page.)
-
 ## 👩‍💻 About Me
 I ♥️ Front-end web development <br/>
 🐱 I am a bit of a crazy cat lady <br/>
